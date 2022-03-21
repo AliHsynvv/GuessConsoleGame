@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Yarisma:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Yarisma_jar</output-path>
+    <root id="archive" name="Yarisma.jar">
+      <element id="module-output" name="Yarisma" />
+    </root>
+  </artifact>
+</component>
